@@ -1,0 +1,30 @@
+_repo: Das-erste-Wort-der-kleinen-Elinontis-und-andere-Indianergeschichten_61431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harders, Gustav (Johann Friedrich Gustav)
+    aliases:
+    - Harders, J. F. G. (Johann Friedrich Gustav)
+    - Harders, Johann Friedrich Gustav
+    - Harders, G. (Johann Friedrich Gustav)
+    birthdate: 1863
+    deathdate: 1917
+    gutenberg_agent_id: '51422'
+    url: http://www.gutenberg.org/2009/agents/51422
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61431'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Das erste Wort der kleinen Elinontis -- Der alte Norisso -- Mein
+  erster Schultag.
+title: Das erste Wort der kleinen Elinontis, und andere Indianergeschichten
+url: http://www.gutenberg.org/ebooks/61431
